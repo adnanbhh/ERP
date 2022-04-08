@@ -33,3 +33,6 @@ Open this file: C:\Program Files (x86)\OpenERP 7.0-20170301\server\openerp-serve
 C:\>cd "Program Files (x86)\OpenERP 7.0-20170329\server"
 server.exe -c openerp-server.conf
 ```
+
+# Note:
+Delete the .pyc Files
